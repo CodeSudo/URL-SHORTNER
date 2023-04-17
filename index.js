@@ -82,7 +82,7 @@ select {  width: 55%;
   background-color: #282b30;
   border-radius: 10px;
   padding: 10px;
-  font-size: 14px;
+  font-size: 20px;
   transition: 0.5s; }
 
 .custom {  width: 40%;
